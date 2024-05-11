@@ -1,0 +1,13 @@
+.statistics-box-main-heading {
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: bold;
+  color: #10110f;
+}
+
+.statistics-box-result {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 700;
+  color: #a9a9a9;
+}

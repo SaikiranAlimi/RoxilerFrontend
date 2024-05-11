@@ -1,0 +1,12 @@
+.search-box-input {
+  width: 250px;
+  height: 40px;
+  border: none;
+  outline: none;
+  color: #007bff;
+  font-size: 18px;
+  font-family: "Roboto";
+  font-weight: 600;
+  border-radius: 12px;
+  text-align: center;
+}
